@@ -16,7 +16,6 @@
 
 <div> 
 	<h2> 💻What technologies do I use? </h2>
-	<img align="right" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width="400" height="400" />
 	<br/>
 	<h5>Javascript <img src="https://unpkg.com/simple-icons@3.4.1/icons/javascript.svg" width="20" height="20" alt="javascript" /> </h5>
 	<h5>ReactJS <img src="https://unpkg.com/simple-icons@3.4.1/icons/react.svg" width="20" height="20" /></h5>
@@ -28,5 +27,7 @@
 	<h5>Figma <img src="https://unpkg.com/simple-icons@3.4.1/icons/figma.svg" width="20" height="20" /> </h5>
 	<h5>VsCode <img src="https://unpkg.com/simple-icons@3.4.1/icons/visualstudio.svg" width="20" height="20" /> </h5>
 	<h5>PostMan <img src="https://unpkg.com/simple-icons@3.4.1/icons/postman.svg" width="20" height="20" /> </h5>
+	<h5>NPM <img src="https://unpkg.com/simple-icons@3.4.1/icons/npm.svg" width="20" height="20" /> </h5>
+	<h5>NodeJS <img src="https://unpkg.com/simple-icons@3.4.1/icons/node-dot-js.svg" width="20" height="20" /> </h5>
 	
 </div>
