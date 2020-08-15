@@ -40,5 +40,9 @@
 </div>
 
 [Twitter](https://twitter.com/lolesuncrak) <img src="https://unpkg.com/simple-icons@3.4.1/icons/twitter.svg" width="20" height="20" />
+
 [Linkedin](https://www.linkedin.com/in/luis-fernando-alvarez/) <img src="https://unpkg.com/simple-icons@3.4.1/icons/linkedin.svg" width="20" height="20" />
+
 [Github](https://github.com/mrLuisFer) <img src="https://unpkg.com/simple-icons@3.4.1/icons/github.svg" width="20" height="20" />
+
+[Email](mailto:lolesuncrak@gmail.com) <img src="https://unpkg.com/simple-icons@3.4.1/icons/gmail.svg" width="20" height="20" />
