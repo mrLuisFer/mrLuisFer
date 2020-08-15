@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47gyjga4hbh8a62dwyu0epfv84eq5irr2dgctcz2fv&rid=giphy.gif" width="400" height="400" />
 
 <div>
-	<h1><img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="40px">Who I am?</h1>
+	<h1>Who I am? <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60" height="60" /> </h1>
 	<br/>
 	<h3> 👨‍💻I am a frontend developer</h3>
 	<h4>💙I love to develop every day </h4>
@@ -36,8 +36,9 @@
 
 <div>
 	<h2> 💼Where to find me... </h2>
-	<h5> Twitter <img src="https://unpkg.com/simple-icons@3.4.1/icons/twitter.svg" width="20" height="20" /> </h5>
-	<h5> Linkedin <img src="https://unpkg.com/simple-icons@3.4.1/icons/linkedin.svg" width="20" height="20" /> </h5>
-	<h5> Github <img src="https://unpkg.com/simple-icons@3.4.1/icons/github.svg" width="20" height="20" /> </h5>
-	<h5> Facebook <img src="https://unpkg.com/simple-icons@3.4.1/icons/facebook.svg" width="20" height="20" /> </h5>
+	<br />
 </div>
+
+[Twitter](https://twitter.com/lolesuncrak) <img src="https://unpkg.com/simple-icons@3.4.1/icons/twitter.svg" width="20" height="20" />
+[Linkedin](https://www.linkedin.com/in/luis-fernando-alvarez/) <img src="https://unpkg.com/simple-icons@3.4.1/icons/linkedin.svg" width="20" height="20" />
+[Github](https://github.com/mrLuisFer) <img src="https://unpkg.com/simple-icons@3.4.1/icons/github.svg" width="20" height="20" />
