@@ -9,7 +9,7 @@
 	<h3> 👨‍💻I am a frontend developer</h3>
 	<h4>💙I love to develop every day </h4>
 	<h4>📌I love web technologies and eating pizza, while sharing with friends and community</h4>
-	<h4>💛A cat worshiper <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="60" height="60" /> </h4>
+	<h4>💛And a Cat lover <img src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="60" height="60" /> </h4>
 	<br/>
 </div>
 
