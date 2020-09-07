@@ -17,9 +17,9 @@
 
 - 📫 You can contact me by Email or Linkedin, Github, Twitter,etc as mrLuisFer🌟 **💼lolesuncrak@gmail.com**
 
-- 🗨️ Send me a message **And drink chocolate☕**
+- 🗨️ Send me a message **For drink chocolate☕**
 
-<p align="left">
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -36,7 +36,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true" alt="mrluisfer" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true" alt="mrluisfer" /></p>
 
 <p align="center">
 <a href="https://twitter.com/lolesuncrak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lolesuncrak" height="30" width="30" /></a>
@@ -44,4 +44,4 @@
 <a href='mailto:lolesuncrak@gmail.com' target='blank'><img align='center' src="https://unpkg.com/simple-icons@3.4.1/icons/gmail.svg" width="30" height="30" alt="luis fernando alvarez manriquez" /></a>
 </p>
 
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47gyjga4hbh8a62dwyu0epfv84eq5irr2dgctcz2fv&rid=giphy.gif" width="300" height="300" />
+<!-- <img align="center" alt="GIF" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47gyjga4hbh8a62dwyu0epfv84eq5irr2dgctcz2fv&rid=giphy.gif" width="300" height="300" /> -->
