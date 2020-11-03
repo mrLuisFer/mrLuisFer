@@ -3,9 +3,9 @@
 
 <h1>Who I am? <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60" height="60" /></h1>
 
-<h3 align="center">🌟I'm passionate 💻Frontend Developer and 🍕Pizza Eater 24hrs a day</h3>
+<h3 align="center">🌟I'm passionate 💻Frontend Developer 24hrs a day🌟</h3>
 
-- 🌱 I’m currently learning **ReactJs⚛️, TypeScript, NexJs, Gatsby And how to cook cookies🍪**
+- 🌱 I’m currently learning **NexJs, Gatsby, MongoDB, Express And how to cook cookies🍪**
 
 - 🌟 But I always like to practice with [Frontend Technologies💻](https://github.com/mrLuisFer)
 
@@ -34,14 +34,20 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
+ 
+</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true" alt="mrluisfer" /></p>
 
+## 🌟Social Media:
 <p align="center">
-<a href="https://twitter.com/lolesuncrak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lolesuncrak" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/luis fernando alvarez manriquez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis fernando alvarez manriquez" height="30" width="30" /></a>
-<a href='mailto:lolesuncrak@gmail.com' target='blank'><img align='center' src="https://unpkg.com/simple-icons@3.4.1/icons/gmail.svg" width="30" height="30" alt="luis fernando alvarez manriquez" /></a>
+<a href="https://twitter.com/lolesuncrak" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="lolesuncrak" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/luis fernando alvarez manriquez" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="luis fernando alvarez manriquez" height="30" width="30" /></a>
+<a href='mailto:lolesuncrak@gmail.com' target='blank'><img align='center' src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="30" height="30" alt="luis fernando alvarez manriquez" /></a>
+<a href='https://www.facebook.com/profile.php?id=100013068189807' target='blank'><img align='center' src='https://www.flaticon.com/svg/static/icons/svg/733/733547.svg' alt='luis fer alvarez' height='30' width='30'/></a>
 </p>
 
 <!-- <img align="center" alt="GIF" src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47gyjga4hbh8a62dwyu0epfv84eq5irr2dgctcz2fv&rid=giphy.gif" width="300" height="300" /> -->
