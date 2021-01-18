@@ -2,7 +2,7 @@
 
 <h1 style="font-size: bold;">Who I am? <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60" height="60" /></h1>
 
-<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: center;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate <img src="./assets/others/web.svg" alt="💻" width="30px"><span style="font-weight: bold;">Frontend Developer</span><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
+<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: flex-start;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate <img src="./assets/others/web.svg" alt="💻" width="30px"><span style="font-weight: bold;">Frontend Developer</span><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
 
 - 🌱 I'm currently learning about **new technologies and much more**
 
@@ -42,10 +42,10 @@
 
 <h2 style="font-size: 1.4rem; display: flex; align-items: center; font-weight: bold;"><img src="https://media.giphy.com/media/d0aPfEC538kEM/giphy.gif" alt="stars" width="70px" />Social Media</h2>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-<a style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img align="center" src="./assets/social-media/twitter.svg" alt="lolesuncrak" height="30" width="30" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href="https://linkedin.com/in/luis fernando alvarez manriquez" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" height="30" width="30" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" height="30" alt="luis fernando alvarez manriquez" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' height='30' width='30'/></a>
-<a style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" height='30' width='30'></a>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+<a style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img align="center" src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30" /></a>
+<a style="margin: 0 0.8rem; outline: none;" href="https://linkedin.com/in/luis fernando alvarez manriquez" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
+<a style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
+<a style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' width='30'/></a>
+<a style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
 </p>
