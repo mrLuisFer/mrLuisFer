@@ -2,7 +2,7 @@
 
 <h1 style="font-size: bold;">Who I am? <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60" height="60" /></h1>
 
-<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: flex-start;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate <img src="./assets/others/web.svg" alt="💻" width="30px"><span style="font-weight: bold;">Frontend Developer</span><img style="width: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
+<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: flex-start;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate Frontend Developer</span><img style="width: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
 
 - 🌱 I'm currently learning about **new technologies and much more**
 
@@ -38,7 +38,9 @@
 <img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true" alt="mrluisfer" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=radical&title_color=61f2f5" alt="mrluisfer" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=radical&title_color=61f2f5" alt="mrluisfer" /></p>
 
 <h2 style="font-size: 1.4rem; display: flex; align-items: center; font-weight: bold;"><img src="https://media.giphy.com/media/d0aPfEC538kEM/giphy.gif" alt="stars" width="70px" />Social Media</h2>
 
