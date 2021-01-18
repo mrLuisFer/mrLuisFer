@@ -2,7 +2,7 @@
 
 <h1 style="font-size: bold;">Who I am? <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60" height="60" /></h1>
 
-<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: flex-start;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate <img src="./assets/others/web.svg" alt="💻" width="30px"><span style="font-weight: bold;">Frontend Developer</span><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
+<h3 style="text-align: center; font-size: 1.5rem; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem; align-items: flex-start;"><img style="width: 20px; height: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟">I'm passionate <img src="./assets/others/web.svg" alt="💻" width="30px"><span style="font-weight: bold;">Frontend Developer</span><img style="width: 20px; margin: 0 0.4rem;" src="./assets/others/star.svg" alt="🌟" /></h3>
 
 - 🌱 I'm currently learning about **new technologies and much more**
 
