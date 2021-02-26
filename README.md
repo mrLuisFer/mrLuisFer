@@ -14,10 +14,11 @@
 
 - 📝 Ask me about **HTML, CSS and JavaScript**
 
-- 📫 You can contact me by Linkedin, Github, Twitter,etc as mrLuisFer🌟 or by email: **💼lolesuncrak@gmail.com**
+- 📫 You can contact me by **[Linkedin](https://www.linkedin.com/in/mrluisfer/)**, **[Github](https://github.com/mrLuisFer)**, **[Twitter](https://twitter.com/lolesuncrak)**,etc as mrLuisFer🌟 or by email: **💼lolesuncrak@gmail.com**
 
-- 🗨️ Send me a message **For talk☕**
+- 🗨️ Send me a message **for talk** ☕
 
+<h3>⚡ My Stack<h3>
 <p style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
 <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
@@ -46,10 +47,11 @@
 
 <h2 style="font-size: 1.4rem; display: flex; align-items: center; font-weight: bold;"><img src="https://media.giphy.com/media/d0aPfEC538kEM/giphy.gif" alt="stars" width="70px" />Social Media</h2>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap:50px;">
 <a style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img align="center" src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href="https://linkedin.com/in/luis fernando alvarez manriquez" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
+<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
 <a style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
 <a style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' width='30'/></a>
 <a style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
-</p>
+</div>
