@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
