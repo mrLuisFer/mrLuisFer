@@ -2,10 +2,10 @@
 
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
-<a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
-<a style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' width='30'/></a>
-<a style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' width='30'/></a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
 </div>
 
 <h2 style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</h2>
