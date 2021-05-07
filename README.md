@@ -1,6 +1,6 @@
 <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
 <a style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
 <a style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
@@ -8,7 +8,7 @@
 <a style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
 </div>
 
-<h2 style="text-align: center; font-size: 1rem;">👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</h2>
+<h2 style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</h2>
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" /> About Me</h2>
 
@@ -31,7 +31,7 @@
 - ☁ Let's go to know each other
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
-<div style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
+<p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
 <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -49,9 +49,9 @@
 <img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
 <img src="./assets/python.svg" alt="python" width="40" height="40"/>
 <img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
-</div>
+</p>
 
-<p style="text-align: center; margin: 1.5rem 0;">
+<p style="text-align: center; margin: 1.5rem 0;" align='center'>
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
