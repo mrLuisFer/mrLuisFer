@@ -19,13 +19,13 @@
 
 - 💙 But I always like to practice with **[Frontend Technologies💻](https://github.com/mrLuisFer)**
 
-- 🌟 My projects are in **[https://github.com/mrLuisFer](https://github.com/mrLuisFer)**
+- 🌟 My projects are in **[github/mrLuisFer](https://github.com/mrLuisFer?tab=repositories)**
 
-- 💬 I like to spend time in Twitter **[https://twitter.com/lolesuncrak?s=09](https://twitter.com/lolesuncrak?s=09)**
+- 💬 I like to spend time in Twitter **[twitter.com/_mrluisfer](https://twitter.com/lolesuncrak?s=09)**
 
 - 📝 Ask me about **HTML, CSS and JavaScript** and more...
 
-- 📫 You can contact me by **[Linkedin](https://www.linkedin.com/in/mrluisfer/)**, **[Github](https://github.com/mrLuisFer)**, **[Twitter](https://twitter.com/lolesuncrak)**,etc as mrLuisFer or by email: <a href="mailto:lolesuncrak@gmail.com" >💼lolesuncrak@gmail.com</a>
+- 📫 You can contact me by **[Linkedin](https://www.linkedin.com/in/mrluisfer/)**, **[Github](https://github.com/mrLuisFer)**, **[Twitter](https://twitter.com/lolesuncrak)**,etc as mrLuisFer or by email: <a href="mailto:mrluisfeer@gmail.com" >💼 mrluisfeer@gmail.com</a>
 
 - 🗨️ Send me a message **for talk** ☕
 
