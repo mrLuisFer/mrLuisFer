@@ -29,7 +29,7 @@
 
 - 🗨️ Send me a message **for talk** ☕
 
-- ☁ Let's go to know each other
+- ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
