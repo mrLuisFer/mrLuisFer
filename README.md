@@ -21,7 +21,7 @@
 
 - 🌟 My projects are in **[github/mrLuisFer](https://github.com/mrLuisFer?tab=repositories)**
 
-- 💬 I like to spend time in Twitter **[twitter.com/_mrluisfer](https://twitter.com/lolesuncrak?s=09)**
+- 💬 I like to spend time in Twitter **[twitter.com/\_mrluisfer](https://twitter.com/lolesuncrak?s=09)**
 
 - 📝 Ask me about **HTML, CSS and JavaScript** and more...
 
@@ -50,6 +50,7 @@
 <img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
 <img src="./assets/python.svg" alt="python" width="40" height="40"/>
 <img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
+<img src="./assets/go-logo.svg" alt="golang" width="45" height="45"/>
 </p>
 
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
