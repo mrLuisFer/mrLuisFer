@@ -29,8 +29,8 @@
 
 - 🗨️ Send me a message **for talk** ☕
 
-- ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**
-
+- ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
+  
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
@@ -56,7 +56,7 @@
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; text-align: center; align-items: center; flex-wrap: wrap;">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue" alt="mrluisfer" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue" alt="mrluisfer" /></p>
