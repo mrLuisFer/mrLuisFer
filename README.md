@@ -1,10 +1,10 @@
 <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>
 
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img src="./assets/social-media/twitter.svg" alt="lolesuncrak" width="30"  /></a>
-  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" alt="luis fernando alvarez manriquez" width="30" /></a>
-  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="luis fernando alvarez manriquez" /></a>
-  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' alt='luis fer alvarez' width='30'/></a>
+  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/lolesuncrak" target="_blank"><img src="./assets/social-media/twitter.svg" title="twitter" alt="lolesuncrak" width="30"  /></a>
+  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" title="linkedIn" alt="luis fernando alvarez manriquez" width="30" /></a>
+  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" title="gmail" width="30" alt="luis fernando alvarez manriquez" /></a>
+  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' title="facebook" alt='luis fer alvarez' width='30'/></a>
   <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30'></a>
 </div>
 
@@ -32,24 +32,24 @@
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
-<img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
-<img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="./assets/gatsby.svg" alt="gatsby" width="40" height="40"/> 
-<img src="./assets/git.svg" alt="git" width="40" height="40"/>
-<img src="./assets/html.svg" alt="html5" width="40" height="40"/>
-<img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-<img src="./assets/nodejs.svg" alt="nodejs" width="40" height="40"/> 
-<img src="./assets/react.svg" alt="react" width="40" height="40"/> 
-<img src="./assets/redux.svg" alt="redux" width="40" height="40"/> 
-<img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
-<img src="./assets/tailwindcss.svg" alt="tailwind" width="40" height="40"/> 
-<img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
-<img src="./assets/python.svg" alt="python" width="40" height="40"/>
-<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
-<img src="./assets/go-logo.svg" alt="golang" width="45" height="45"/>
+<img src="./assets/babel.svg" alt="babel" title="babel" width="40" height="40"/> 
+<img src="./assets/css3.svg" alt="css3" title="css3" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/> 
+<img src="./assets/gatsby.svg" alt="gatsby" title="gatsby" width="40" height="40"/> 
+<img src="./assets/git.svg" alt="git" title="git" width="40" height="40"/>
+<img src="./assets/html.svg" alt="html5" title="html5" width="40" height="40"/>
+<img src="./assets/javascript.svg" alt="javascript" title="javascript" width="40" height="40"/> 
+<img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" title="jest" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" title="nextjs" width="40" height="40"/> 
+<img src="./assets/nodejs.svg" alt="nodejs" title="nodejs" width="40" height="40"/> 
+<img src="./assets/react.svg" alt="react" title="react" width="40" height="40"/> 
+<img src="./assets/redux.svg" alt="redux" title="redux" width="40" height="40"/> 
+<img src="./assets/sass.svg" alt="sass" title="sass" width="40" height="40"/> 
+<img src="./assets/tailwindcss.svg" alt="tailwind" title="tailwind" width="40" height="40"/> 
+<img src="./assets/typescript.svg" alt="typescript" title="typescript" width="40" height="40"/>
+<img src="./assets/python.svg" alt="python" title="python" width="40" height="40"/>
+<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" title="styled-components" width="40" height="40"/>
+<img src="./assets/go-logo.svg" alt="golang" alt="golang" width="45" height="45"/>
 <img src="./assets/svelte.svg" alt="svelte" title="svelte" width="45" height="45"/>
 </p>
 
