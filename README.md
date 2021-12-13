@@ -29,7 +29,7 @@
 - 🗨️ Send me a message **for talk** ☕
 
 - ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
-  
+
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
@@ -50,6 +50,7 @@
 <img src="./assets/python.svg" alt="python" width="40" height="40"/>
 <img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
 <img src="./assets/go-logo.svg" alt="golang" width="45" height="45"/>
+<img src="./assets/svelte.svg" alt="svelte" title="svelte" width="45" height="45"/>
 </p>
 
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
