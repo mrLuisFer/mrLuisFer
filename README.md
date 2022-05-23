@@ -30,6 +30,9 @@
 
 - ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mrLuisFer&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/babel.svg" alt="babel" title="babel" width="40" height="40"/> 
@@ -61,3 +64,9 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue" alt="mrluisfer" /></p>
 </div>
+  
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="500px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
