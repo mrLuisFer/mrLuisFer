@@ -59,11 +59,10 @@
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
-<div style="display: flex; justify-content: space-around; text-align: center; align-items: center; flex-wrap: wrap;">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue" alt="mrluisfer" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue" alt="mrluisfer" /></p>
-</div>
+  
+![](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)<br />
+![](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue) <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue)
   
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="500px"/>
