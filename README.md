@@ -64,8 +64,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue)
   
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="500px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
