@@ -31,7 +31,7 @@
 - ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
 
 - 🎧 Listening to:<br/>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🏆GitHub Trophies
 
