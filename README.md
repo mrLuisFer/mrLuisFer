@@ -30,7 +30,11 @@
 
 - ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
 
+- 🎧 Listening to:<br/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&redirect=true)
+
 ## 🏆GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=mrLuisFer&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
