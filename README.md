@@ -43,7 +43,7 @@
 <img src="./assets/html.svg" alt="html5" title="html5" width="40" height="40"/>
 <img src="./assets/javascript.svg" alt="javascript" title="javascript" width="40" height="40"/> 
 <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" title="jest" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" title="nextjs" width="40" height="40"/> 
+<img src="./assets/nextjs.svg" alt="nextjs" title="nextjs" width="40" height="40"/> 
 <img src="./assets/nodejs.svg" alt="nodejs" title="nodejs" width="40" height="40"/> 
 <img src="./assets/react.svg" alt="react" title="react" width="40" height="40"/> 
 <img src="./assets/redux.svg" alt="redux" title="redux" width="40" height="40"/> 
@@ -54,6 +54,7 @@
 <img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" title="styled-components" width="40" height="40"/>
 <img src="./assets/go-logo.svg" alt="golang" alt="golang" width="45" height="45"/>
 <img src="./assets/svelte.svg" alt="svelte" title="svelte" width="45" height="45"/>
+  <img src="./assets/java.svg" alt="java" title="java" width="45" height="45"/>
 </p>
 
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
