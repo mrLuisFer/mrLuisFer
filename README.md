@@ -68,12 +68,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)<br />
 ![](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue)
-  
----
-[![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 
-<p align="center">
+[![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"
   />
