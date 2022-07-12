@@ -65,9 +65,15 @@
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
   
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)<br />
 ![](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue)
+-->
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ 
+| ![Streaks](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | <img src="https://activity-graph.herokuapp.com/graph?username=mrLuisFer&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
 
 
 [![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
