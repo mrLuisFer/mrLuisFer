@@ -9,7 +9,7 @@
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</p>
-
+  
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40px' height="40px" /> About Me</h2>
 
 - 👨‍💻 I'm a passionate Frontend Developer
@@ -32,6 +32,10 @@
 
 - 🎧 Listening to:<br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p style="text-align: center; display: flex; justify-content: center; margin: 0 auto; display: block;">
+  <img width="100%" align='center' src="https://media.tenor.com/V6BlTNHiHiAAAAAC/lofi-hiphop.gif" alt="lofi gif background" />
+</p>
 
 ## 🏆GitHub Trophies
 
