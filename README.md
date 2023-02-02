@@ -5,7 +5,6 @@
   <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/mrluisfer/" target="blank"><img src="./assets/social-media/linkedin.svg" title="linkedIn" alt="luis fernando alvarez manriquez" width="30px" height="30px" /></a>
   <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:lolesuncrak@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" title="gmail" width="30px" height="30px" alt="luis fernando alvarez manriquez" /></a>
   <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/profile.php?id=100013068189807' target='_blank'><img src='./assets/social-media/facebook.svg' title="facebook" alt='luis fer alvarez' width='30px' height="30px" /></a>
-  <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.reddit.com/user/mrLuisFer" target="_blank" ><img src="./assets/social-media/reddit.svg" alt="u/mrLuisFer" width='30px' height="30px"></a>
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</p>
@@ -30,8 +29,8 @@
 
 - ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**</li>
 
-- 🎧 Listening to:<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+- 🎧 Listening:<br/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p style="text-align: center; display: flex; justify-content: center; margin: 0 auto; display: block;">
   <img width="100%" align='center' src="https://media.tenor.com/V6BlTNHiHiAAAAAC/lofi-hiphop.gif" alt="lofi gif background" />
@@ -75,15 +74,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue)
 -->
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true)                    | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true)           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Streaks](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true) | <img src="https://activity-graph.herokuapp.com/graph?username=mrLuisFer&bg_color=00000000&theme=react-dark&hide_border=true&hide_title=true&point=bf91f3" width="500" /> |
-
 
 [![](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"
+    src="./assets/cat-on-line.svg"
   />
 </p>
