@@ -32,9 +32,10 @@
 - 🎧 Listening:<br/>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lolesuncrak&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p style="text-align: center; display: flex; justify-content: center; margin: 0 auto; display: block;">
+<!-- <p style="text-align: center; display: flex; justify-content: center; margin: 0 auto; display: block;">
   <img width="100%" align='center' src="https://media.tenor.com/V6BlTNHiHiAAAAAC/lofi-hiphop.gif" alt="lofi gif background" />
 </p>
+-->
 
 ## 🏆GitHub Trophies
 
