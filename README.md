@@ -28,10 +28,6 @@
 - 🗨️ Let's connect and **chat over coffee** ☕.
 - ☁ I also enjoy learning and writing articles on **[Dev.to](https://dev.to/mrluisfer)**.
 
-### 🎧 Currently Listening:
-
-[![Spotify Listening](https://spotify-github-profile.kittinanx.com/api/view?uid=lolesuncrak&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=lolesuncrak&redirect=true)
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrLuisFer&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
