@@ -1,31 +1,48 @@
 <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'>
+
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="40px"> Hello World! 
+
 </h1>
 
-<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px; gap: 20px;">
+  
   <a href="https://www.linkedin.com/in/mrluisfer/" target="blank" style="margin: 0 0.8rem; outline: none;">
     <img src="./assets/social-media/linkedin.svg" title="LinkedIn" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
+
+  
   <a href='mailto:lolesuncrak@gmail.com' target='_blank' style="margin: 0 0.8rem; outline: none;">
     <img src="./assets/social-media/gmail.svg" title="Gmail" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
+  
 </div>
 
 <div align="center">
+  
   👦🏻 <strong>Luis Alvarez</strong> | 👨‍💻 <strong>Software Developer</strong> | 🇲🇽 Mexico
+  
 </div>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+<div align='center'>
+
+  [![Profile Views](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+  
+</div>
+
+<div align="center">
+   
+   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 ## About Me
 
 - 👨‍💻 I'm a passionate **Frontend Developer**.
 - 🌱 Currently learning about **new technologies and more**.
-- 💙 I love practicing with **[Frontend Technologies💻](https://github.com/mrLuisFer)**.
+- 💙 I love practicing with **[Frontend & Backend Technologies](https://github.com/mrLuisFer)**.
 - 🌟 You can check out my projects on **[GitHub](https://github.com/mrLuisFer?tab=repositories)**.
-- 📝 Feel free to ask me about **HTML, CSS, JavaScript**, and more!
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mrluisfer/)**, **[GitHub](https://github.com/mrLuisFer)**, or via email: [💼 mrluisfeer@gmail.com](mailto:mrluisfeer@gmail.com).
-- 🗨️ Let's connect and **chat over coffee** ☕.
+- 📝 Feel free to ask me about **Web technologies**, and more!
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mrluisfer/)**, **[GitHub](https://github.com/mrLuisFer)**, or via email: 💼 **[ mrluisfeer@gmail.com](mailto:mrluisfeer@gmail.com)**.
 - ☁ I also enjoy learning and writing articles on **[Dev.to](https://dev.to/mrluisfer)**.
 
 ## 🏆 GitHub Trophies
