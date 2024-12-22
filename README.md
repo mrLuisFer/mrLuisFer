@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center; text-shadow: 1px 1px 2px black;" align='center'>
 
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="40px"> Hello World! 
 
@@ -6,12 +6,11 @@
 
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px; gap: 20px;">
   
-  <a href="https://www.linkedin.com/in/mrluisfer/" target="blank" style="margin: 0 0.8rem; outline: none;">
+  <a href="https://www.linkedin.com/in/mrluisfer/" target="_blank" style="margin: 0 0.8rem; outline: none; text-decoration: none;">
     <img src="./assets/social-media/linkedin.svg" title="LinkedIn" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
 
-  
-  <a href='mailto:lolesuncrak@gmail.com' target='_blank' style="margin: 0 0.8rem; outline: none;">
+  <a href='mailto:lolesuncrak@gmail.com' target='_blank' style="margin: 0 0.8rem; outline: none; text-decoration: none;">
     <img src="./assets/social-media/gmail.svg" title="Gmail" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
   
@@ -37,13 +36,24 @@
 
 ## About Me
 
-- 👨‍💻 I'm a passionate **Frontend Developer**.
-- 🌱 Currently learning about **new technologies and more**.
-- 💙 I love practicing with **[Frontend & Backend Technologies](https://github.com/mrLuisFer)**.
-- 🌟 You can check out my projects on **[GitHub](https://github.com/mrLuisFer?tab=repositories)**.
-- 📝 Feel free to ask me about **Web technologies**, and more!
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mrluisfer/)**, **[GitHub](https://github.com/mrLuisFer)**, or via email: 💼 **[ mrluisfeer@gmail.com](mailto:mrluisfeer@gmail.com)**.
-- ☁ I also enjoy learning and writing articles on **[Dev.to](https://dev.to/mrluisfer)**.
+<div style="display:flex;justify-content:space-between;align-items:center;">
+<ul>
+  <li>👨‍💻 I'm a passionate <b>Frontend Developer</b>.</li>
+  <li>🌱 Currently learning about <b>new technologies and more</b>.</li>
+  <li>💙 I love practicing with <b><a href="https://github.com/mrLuisFer">Frontend & Backend Technologies</a></b>.</li>
+  <li>🌟 You can check out my projects on <b><a href="https://github.com/mrLuisFer?tab=repositories">GitHub</a></b>.</li>
+  <li>📝 Feel free to ask me about <b>Web technologies</b>, and more!</li>
+  <li>📫 Reach me on <b><a href="https://www.linkedin.com/in/mrluisfer">LinkedIn</a></b> or via email: 💼 <b><a href="mailto:mrluisfeer@gmail.com">mrluisfeer@gmail.com</a></b>.</li>
+  <li>☁ I also enjoy writing articles on <b><a href="https://dev.to/mrluisfer">Dev.to</a></b>.</li>
+</ul>
+
+<div style="text-align:center;">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lolesuncrak&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -78,9 +88,21 @@
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
 
+<div align='center' style="text-align: center;">
+
 | ![Stats](https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=blueberry&locale=es&bg_color=00000000&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&theme=blueberry&locale=es&layout=compact&bg_color=00000000&hide_border=true) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+</div>
+
+<div align='center' style="text-align: center;">
+
 ![Streaks](https://github-readme-streak-stats.herokuapp.com?user=mrLuisFer&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D&locale=es&background=00000000&hide_border=true)
+  
+</div>
+
+<div align='center' style="text-align: center; width: full;">
 
 ![Cat on line](./assets/cat-on-line.svg)
+  
+</div>
