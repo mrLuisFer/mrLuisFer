@@ -10,7 +10,7 @@
     <img src="./assets/social-media/linkedin.svg" title="LinkedIn" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
 
-  <a href='mailto:lolesuncrak@gmail.com' target='_blank' style="margin: 0 0.8rem; outline: none; text-decoration: none;">
+  <a href='mailto:mrluisfeer@gmail.com' target='_blank' style="margin: 0 0.8rem; outline: none; text-decoration: none;">
     <img src="./assets/social-media/gmail.svg" title="Gmail" alt="Luis Fernando Alvarez Manríquez" width="30px" height="30px" />
   </a>
   
@@ -22,15 +22,9 @@
   
 </div>
 
-<div align='center'>
-
-  [![Profile Views](https://visitcount.itsvg.in/api?id=mrLuisFer&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
-
 <div align="center">
    
-   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   ![mrluisfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrluisfer&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    
 </div>
 
